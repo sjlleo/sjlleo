@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjlleo&label=Profile%20views&color=0e75b6&style=flat" alt="sjlleo" /> </p>
 
-- 📝 I regularly write articles on [https://leo.moe](https://leo.moe)
-
+- 📝 I often write articles about domestic to international Tier-01 routes(ex. NTT,GTT,IIJ) at Zhihu, [check here](https://www.zhihu.com/people/sjlleo-55)
+- 📝 I regularly write articles on [Leo's Blog](https://leo.moe)
 - 📫 How to reach me **i@leo.moe**
 
 
