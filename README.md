@@ -8,5 +8,5 @@
 - 📫 How to reach me **i@leo.moe**
 
 
-![pic01](https://github-readme-stats.vercel.app/api/top-langs?username=sjlleo&show_icons=true&locale=en&layout=compact)
-![pic02](https://github-readme-stats.vercel.app/api?username=sjlleo&show_icons=true&locale=en)
+![pic01](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=sjlleo&show_icons=true&locale=en&layout=compact)
+![pic02](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sjlleo&show_icons=true&locale=en)
